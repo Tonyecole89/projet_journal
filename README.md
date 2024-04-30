@@ -2,8 +2,6 @@
 
 Ecole89 sort son journal d'étudiants.
 
-Votre mission, si vous l'acceptez (...pfff évidemment qu'on l'accepte ), sera d'intégrer la maquette du site.
-
 ## Infos
 
 - il y a 3 pages à monter (ne pas oublier le formulaire de contact et les mentions légales)
